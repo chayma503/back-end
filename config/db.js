@@ -4,7 +4,7 @@ require('dotenv').config();
 const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
-    database: 'qcm',
+    database: 'qcm2',
     password: 'admin',
     port: 5432,
   });
